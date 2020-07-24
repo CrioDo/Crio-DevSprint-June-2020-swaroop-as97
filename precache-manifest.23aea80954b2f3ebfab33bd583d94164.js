@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d99ef0e719cf31a4716d81a138e076f8",
+    "revision": "cd8838061295a66ae3039b61efeea64b",
     "url": "/Crio-DevSprint-June-2020-swaroop-as97/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Crio-DevSprint-June-2020-swaroop-as97/static/css/2.57ddf7ad.chunk.css"
   },
   {
-    "revision": "c9a0640128a7cc0d86ce",
+    "revision": "7bd8f0931858d5173fda",
     "url": "/Crio-DevSprint-June-2020-swaroop-as97/static/css/main.5db1380d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Crio-DevSprint-June-2020-swaroop-as97/static/js/2.a152d104.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c9a0640128a7cc0d86ce",
-    "url": "/Crio-DevSprint-June-2020-swaroop-as97/static/js/main.932608b9.chunk.js"
+    "revision": "7bd8f0931858d5173fda",
+    "url": "/Crio-DevSprint-June-2020-swaroop-as97/static/js/main.63142e89.chunk.js"
   },
   {
     "revision": "2c989a80281aefd7eb31",
