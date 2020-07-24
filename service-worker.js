@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Crio-DevSprint-June-2020-swaroop-as97/precache-manifest.cd7647ea81d4fb5d3928e3e7a4b8387a.js"
+  "/Crio-DevSprint-June-2020-swaroop-as97/precache-manifest.a3285bb0fdaad02f507529e4cc8e9961.js"
 );
 
 self.addEventListener('message', (event) => {
